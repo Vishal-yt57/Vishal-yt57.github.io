@@ -1,7 +1,6 @@
 # Vishal-yt57.github.io
 This is my first GitHub website.
-##STUDENT INDUCTION PROGRAMME ##
-| Syntax | Here told us some important things|
+| TOPIC|WORK|
 | ----------- | ----------- |
-| | Title |
-| Paragraph | Text
+| | STUDENT INDUCTION PROGRAMME|
+| HERE, TOLD US SONE IMPORTANT THINS| THE GLORY OF GNE COLLEGE LUDHIANA 
