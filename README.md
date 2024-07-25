@@ -1,6 +1,6 @@
 # Vishal-yt57.github.io
-A Report of student induction programme of GNE COLLEGE LUDHIANA By 1st year B tech student VISHAL.
-	![alt VISHAL](vishalyt.jpg)
+A Report of student induction programme of GNE COLLEGE LUDHIANA By 1st year B tech student VISHAL
+	![My Image](vishalyt.jpg)
  **VISHAL**
 | TOPIC|WORK|
 | ----------- | ----------- |
