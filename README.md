@@ -1,5 +1,6 @@
 # Vishal-yt57.github.io
-A Report of student induction programme of GNE COLLEGE LUDHIANA By 1st year B tech student VISHAL
+HELLO EVERYONE, I AM
+**VISHAL**
 ![My Image](IMG_20240702_141618_160.jpg)
  **VISHAL**
 | TOPIC|WORK|
